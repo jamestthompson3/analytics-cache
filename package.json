@@ -1,6 +1,6 @@
 {
   "name": "@slowerloris/analytics-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple, anonymous analytics cache",
   "packageManager": "yarn@4.4.0",
   "license": "MIT",
@@ -16,5 +16,15 @@
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
     "typescript": "5.5.4"
-  }
+  },
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestthompson3/analytics-cache.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jamestthompson3/analytics-cache/issues"
+  },
+  "homepage": "https://github.com/jamestthompson3/analytics-cache#readme"
 }
